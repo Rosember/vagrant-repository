@@ -1,0 +1,9 @@
+{
+	"scm": {
+		"nombre": "juan"
+	},
+	"run_list": [
+
+		"recipe[scm]"
+	]
+}

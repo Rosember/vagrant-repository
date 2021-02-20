@@ -1,0 +1,1 @@
+default['scm']['nombre'] = 'Pedro'
